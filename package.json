@@ -1,0 +1,15 @@
+{
+  "name": "js-blockchain",
+  "version": "1.0.0",
+  "description": "simple depection of blockchain using javaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sahil raj",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4"
+  }
+}
